@@ -1,5 +1,5 @@
-steinberg-vst3-boilerplate
-==========================
+steinberg-vst3-playground
+=========================
 Based on [vst3_public_sdk/samples/vst/panner at master · steinbergmedia/vst3_public_sdk](https://github.com/steinbergmedia/vst3_public_sdk/tree/master/samples/vst/panner) example
 
 ### How to build
