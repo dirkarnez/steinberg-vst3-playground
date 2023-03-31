@@ -1,6 +1,8 @@
 steinberg-vst3-playground
 =========================
 Based on [vst3_public_sdk/samples/vst/panner at master · steinbergmedia/vst3_public_sdk](https://github.com/steinbergmedia/vst3_public_sdk/tree/master/samples/vst/panner) example
+### Reference
+- **https://github.com/Kiriki-liszt/JS_Inflator_to_VST2_VST3/blob/main/CMakeLists.txt**
 
 ### How to build
 1. Build [steinbergmedia/vst3sdk: VST 3 Plug-In SDK](https://github.com/steinbergmedia/vst3sdk) outside of the project first (note that `C:\Windows\System32` is required in `%PATH%`)
